@@ -153,3 +153,4 @@ We just created a visual component that looks _kind_ of custom, without writing 
 
 ## Resources
 - [Basscss](http://www.basscss.com)
+<p data-visibility='hidden'>PHRG Introduction to Basscss</p>
