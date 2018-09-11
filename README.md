@@ -151,6 +151,10 @@ And that's it! Here's the full code for the nametag:
 
 We just created a visual component that looks _kind_ of custom, without writing any CSS ourselves. Pretty neat, huh? Feel free to dive into Basscss' documentation to learn even more, so your applications can take on a whole new look!
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-css-libraries-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-css-libraries-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
+
 ## Resources
 - [Basscss](http://www.basscss.com)
 <p data-visibility='hidden'>PHRG Introduction to Basscss</p>
